@@ -1,0 +1,28 @@
+body{
+	 border: 20px #bdc3c7 solid;
+	 font-family: 'Source Sans Pro', sans-serif;
+	 max-width: 700px;
+	 width: 80%;
+	 margin-left: 20%; 
+	 margin-right: 20%;
+	 margin-top: 2%; 
+}
+
+.Date{
+	color: #3498db;
+	padding-left: 30px;
+}
+
+h2	{
+	color: #2c3e50;
+	padding-left: 30px;
+}
+
+.first{
+	border-left: 4px #bdc3c7 solid;
+	padding-left: 4px;
+}
+div	{
+	padding-left: 30px;
+	border-bottom: 1px #f1f1f1 solid;
+}
