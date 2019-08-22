@@ -40,4 +40,17 @@ You dont have to install any extra softwre or anything. You just have to open th
 
 * **Vatsal Chheda** - *Initial work* - (https://github.com/vatsalchheda)
 
+# Screenshots
+ 
+ ![image](https://user-images.githubusercontent.com/49812773/63526640-59a1a500-c51d-11e9-83e7-4b209a34c2b3.png)
+![image](https://user-images.githubusercontent.com/49812773/63526828-a6857b80-c51d-11e9-8c47-94f6259b3bf0.png)
+![image](https://user-images.githubusercontent.com/49812773/63526917-d0d73900-c51d-11e9-8a9f-6dc30b05a30e.png)
+![image](https://user-images.githubusercontent.com/49812773/63526931-d5035680-c51d-11e9-92b0-b812b0d039f6.png)
+![image](https://user-images.githubusercontent.com/49812773/63526952-e0568200-c51d-11e9-8666-018a9f855b76.png)
+![image](https://user-images.githubusercontent.com/49812773/63526967-e64c6300-c51d-11e9-81ce-f68babe51d3e.png)
+![image](https://user-images.githubusercontent.com/49812773/63527804-64f5d000-c51f-11e9-9885-d247b723489e.png)
+
+
+
+
 
